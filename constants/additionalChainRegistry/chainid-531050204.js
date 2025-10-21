@@ -1,6 +1,6 @@
 export const data = {
-  "name": "Sophon zkSync-OS Testnet",
-  "chain": "Sophon",
+  "name": "Sophon OS Testnet",
+  "chain": "Sophon OS",
   "rpc": [
     "https://zksync-os-testnet-sophon.zksync.dev/",
   ],
@@ -16,7 +16,7 @@ export const data = {
   "chainId": 531050204,
   "networkId": 531050204,
   "explorers": [{
-    "name": "Sophon zkSync Testnet Explorer",
+    "name": "Sophon OS Testnet Explorer",
     "url": "https://block-explorer.zksync-os-testnet-sophon.zksync.dev/",
     "standard": "EIP3091"
   }]
