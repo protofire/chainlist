@@ -12,7 +12,7 @@ export const data = {
   },
   "features": [{ "name": "EIP155" }, { "name": "EIP1559" }],
   "infoURL": "https://sophon.xyz/",
-  "shortName": "sophon-testnet",
+  "shortName": "sophon-os-testnet",
   "chainId": 531050204,
   "networkId": 531050204,
   "explorers": [{
